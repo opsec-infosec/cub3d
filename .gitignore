@@ -1,0 +1,10 @@
+*.o
+*.dSYM
+#*.pdf
+.icarukTime.json
+.vscode
+.DS_Store
+*.a
+*.txt
+cub3D
+cub3D-bonus

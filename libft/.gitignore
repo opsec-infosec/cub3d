@@ -1,0 +1,7 @@
+.DS_Store
+*.o
+*.a
+.vscode
+.bash_history
+*.gch
+.icarukTime.json

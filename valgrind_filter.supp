@@ -1,0 +1,35 @@
+{
+	minilibx-init
+	Memcheck:Leak
+	fun:*
+	...
+	fun:mlx_init
+}
+{
+	minilibx-window
+	Memcheck:Leak
+	fun:*
+	...
+	fun:mlx_new_window
+}
+{
+	minilibx-keyEvent
+	Memcheck:Leak
+	fun:*
+	...
+	fun:mlx_int_param_KeyPress
+}
+{
+	minilibx-loop
+	Memcheck:Leak
+	fun:*
+	...
+	fun:XSync
+}
+{
+	minilibx-image
+	Memcheck:Leak
+	fun:*
+	...
+	fun:XFlush
+}
