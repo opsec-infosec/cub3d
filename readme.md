@@ -1,3 +1,5 @@
+![](cub3d.gif)
+
 # 42 Cube 3d Project
 
 ## Skills Learned
